@@ -1,4 +1,4 @@
-REDUCER:
+REDUCER: NEURAL NETWORK SOM
 
 import java.io.IOException;
 import org.apache.hadoop.io.Text;
@@ -17,7 +17,7 @@ public class MovieLensReducer extends Reducer<Text, Text, Text, Text> {
 }
 
 
-DRIVER:
+DRIVER: NEURAL NETWORK SOM
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
