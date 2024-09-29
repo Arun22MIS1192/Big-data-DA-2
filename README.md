@@ -1,4 +1,4 @@
-MovieLens Tag Clustering with Hadoop and SOM
+MovieLens Tag Clustering with Hadoop and NEURAL NETWORK SOM
 
 This assignment processes the MovieLens dataset and applies a neural networking Self-Organizing Map (SOM) to cluster movies based on their tags using Hadoop MapReduce. The dataset includes movie tags provided by users, which are used to find patterns and group similar movies.
 
