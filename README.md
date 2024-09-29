@@ -61,5 +61,29 @@ Disk: 10 GB free space
 OS: Linux/Mac/Windows
 
 
+OUTPUTS:
+
+Mapper:
+
+![image](https://github.com/user-attachments/assets/0bc26e25-782f-4c4b-95b9-2d5a0c9b6e60)
+
+
+
+Reducer:
+
+![image](https://github.com/user-attachments/assets/a2d10d18-63d3-4e05-b962-8788e8932b48)
+
+
+driver:
+
+![image](https://github.com/user-attachments/assets/c798e06a-93dd-46b3-b0ac-bb6870f95b36)
+
+
+
+
+
+
+
+
 
 
